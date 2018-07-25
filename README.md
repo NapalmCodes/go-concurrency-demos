@@ -4,11 +4,11 @@ Created for the purpose of learning about Go (golang) concurrency concepts that 
 
 ## Table of Contents
 
-* [Simple program without concurrency](/tree/master/demo1)
-* [Goroutines (adding concurrency to previous demo)](/tree/master/demo2)
-* [Non-Buffered Channels](/tree/master/demo3)
-* [Buffered Channels](/tree/master/demo4)
-* [Select/Bringing it all together](/tree/master/demo5)
+* [Simple program without concurrency](demo1/main.go)
+* [Goroutines (adding concurrency to previous demo)](demo2/main.go)
+* [Non-Buffered Channels](demo3/main.go)
+* [Buffered Channels](demo4/main.go)
+* [Select/Bringing it all together](demo5/main.go)
 
 ## Executing
 ```
